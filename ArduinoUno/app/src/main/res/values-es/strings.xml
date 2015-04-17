@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="action_settings">Configuración</string>
+    <string name="app_name">Arduino One</string>
+    <string name="controls">Controles</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="led1">Led 1</string>
+    <string name="data">Datos</string>
+    <string name="viewdata">Ver datos</string>
+    <string name="tempo">Temporizador</string>
+    <string name="value">0</string>
+
+</resources>

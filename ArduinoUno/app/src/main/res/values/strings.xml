@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arduino One</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="controls">Controls</string>
+    <string name="led1">Led 1</string>
+    <string name="data">Data</string>
+    <string name="viewdata">View Data</string>
+    <string name="tempo">Timer</string>
+    <string name="value">0</string>
+
+</resources>
